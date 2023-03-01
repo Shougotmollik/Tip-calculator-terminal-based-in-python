@@ -1,1 +1,1 @@
-# rock-paper-scissors---terminal-based-in-python
+# Tip-calculator-terminal-based-in-python
